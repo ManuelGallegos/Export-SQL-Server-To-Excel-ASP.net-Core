@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Export-SQL-Server-To-Excel-ASP.net-Core", "Export-SQL-Server-To-Excel-ASP.net-Core.csproj", "{8D5A7BA6-160A-4674-B939-A5C6EB72A1E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D5A7BA6-160A-4674-B939-A5C6EB72A1E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5A7BA6-160A-4674-B939-A5C6EB72A1E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5A7BA6-160A-4674-B939-A5C6EB72A1E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5A7BA6-160A-4674-B939-A5C6EB72A1E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F13A502-55F7-4C1A-B087-201518231A75}
+	EndGlobalSection
+EndGlobal
